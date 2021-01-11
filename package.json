@@ -1,0 +1,19 @@
+{
+  "name": "badger_vinegar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JakeReadman/badger_vinegar.git"
+  },
+  "author": "Jake Readman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JakeReadman/badger_vinegar/issues"
+  },
+  "homepage": "https://github.com/JakeReadman/badger_vinegar#readme"
+}
