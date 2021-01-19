@@ -12,7 +12,7 @@
     <!-- Product -->
     <div class="bg0 m-t-23 p-b-140">
         <div class="container">
-            <div class="flex-w flex-sb-m p-b-52">
+            <!-- <div class="flex-w flex-sb-m p-b-52">
                 <div class="flex-w flex-l-m filter-tope-group m-tb-10">
                     <button class="stext-106 cl6 hov1 bor3 trans-04 m-r-32 m-tb-5 how-active1" data-filter="*">
                         All Products
@@ -52,10 +52,10 @@
                         <i class="icon-close-search cl2 m-r-6 fs-15 trans-04 zmdi zmdi-close dis-none"></i>
                         Search
                     </div>
-                </div>
+                </div> -->
 
-                <!-- Search product -->
-                <div class="dis-none panel-search w-full p-t-10 p-b-15">
+            <!-- Search product -->
+            <!-- <div class="dis-none panel-search w-full p-t-10 p-b-15">
                     <div class="bor8 dis-flex p-l-15">
                         <button class="size-113 flex-c-m fs-16 cl2 hov-cl1 trans-04">
                             <i class="zmdi zmdi-search"></i>
@@ -64,10 +64,10 @@
                         <input class="mtext-107 cl2 size-114 plh2 p-r-15" type="text" name="search-product"
                             placeholder="Search">
                     </div>
-                </div>
+                </div> -->
 
-                <!-- Filter -->
-                <div class="dis-none panel-filter w-full p-t-10">
+            <!-- Filter -->
+            <!-- <div class="dis-none panel-filter w-full p-t-10">
                     <div class="wrap-filter flex-w bg6 w-full p-lr-40 p-t-27 p-lr-15-sm">
                         <div class="filter-col1 p-r-15 p-b-27">
                             <div class="mtext-102 cl2 p-b-15">
@@ -259,9 +259,9 @@
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
 
-            <div class="row isotope-grid">
+            <div class="row isotope-grid m-t-50">
 
                 <?php 
                 include "partials/connect.php";

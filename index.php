@@ -10,8 +10,8 @@
     <!-- Slider -->
     <?php include "partials/slider.php" ?>
 
-    <!-- Banner -->
-    <?php include "partials/banner.php" ?>
+
+
 
     <!-- Product -->
     <section class="bg0 p-t-23 p-b-140">
